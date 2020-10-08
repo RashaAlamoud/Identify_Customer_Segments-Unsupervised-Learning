@@ -4,7 +4,7 @@
 
 
 
-# Install:
+# Install: 
 
 This project requires Python 3 and the following Python libraries installed:
 
